@@ -40,7 +40,7 @@ Deploy the login system to a production environment following best practices for
 For deployment guidance, refer to the [Deployment Guide](./docs/deployment.md).
 
 ## Contributing
-Contributions to the project are welcome! Follow the guidelines for reporting bugs, suggesting features, and submitting pull requests outlined in the [Contributing Guide](./docs/Contribution.md).
+Contributions to the project are welcome! Follow the guidelines for reporting bugs, suggesting features, and submitting pull requests outlined in the [Contributing Guide](./docs/contribution.md).
 
 ## Acknowledgements
 We would like to thank all contributors and supporters of this project for their valuable contributions and feedback.
