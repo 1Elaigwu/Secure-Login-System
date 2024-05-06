@@ -1,0 +1,65 @@
+/* styles.css */
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #3b3b3b; /* Chocolate brown */
+  color: #fff;
+}
+
+.container {
+  max-width: 400px;
+  margin: 50px auto;
+  padding: 20px;
+  border: 1px solid #8a5238; /* Dark orange */
+  border-radius: 5px;
+  text-align: center;
+  background-color: #8a5238; /* Dark orange */
+}
+
+h1 {
+  margin-bottom: 20px;
+  color: #fff;
+}
+
+input[type="text"],
+input[type="password"],
+input[type="email"],
+button {
+  display: block;
+  width: calc(100% - 22px); /* Adjusting width to account for padding */
+  margin-bottom: 10px;
+  padding: 10px;
+  font-size: 16px;
+  background-color: #5b5b5b; /* Darker chocolate brown */
+  color: #fff;
+  border: none;
+  border-radius: 3px;
+}
+
+button {
+  background-color: #cc6600; /* Dark orange */
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #ff9933; /* Light orange */
+}
+
+.message {
+  margin-top: 20px;
+  color: #ff3333; /* Red */
+}
+
+#registerSection {
+  margin-top: 20px;
+  color: #fff;
+}
+
+#registerSection a {
+  color: #ff9933; /* Light orange */
+  text-decoration: none;
+}
+
+#registerSection a:hover {
+  text-decoration: underline;
+}
