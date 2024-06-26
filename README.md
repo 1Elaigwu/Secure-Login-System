@@ -15,7 +15,7 @@ Follow these steps to set up the project locally:
 2. Install dependencies using `npm install`.
 3. Configure the database connection in `app.js`.
 4. Create the necessary database tables using the provided SQL scripts.
-5. Run the application using `npm start`.
+5. Run the application using  `node app.js` or `npm start`.
 
 For detailed setup instructions, refer to the [Setup Guide](./docs/setup.md).
 
